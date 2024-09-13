@@ -1,0 +1,14 @@
+C:\Users\viacheslavn\Desktop\TASKS )\Client2\Client2\bin\Debug\net8.0\Client2.exe
+C:\Users\viacheslavn\Desktop\TASKS )\Client2\Client2\bin\Debug\net8.0\Client2.deps.json
+C:\Users\viacheslavn\Desktop\TASKS )\Client2\Client2\bin\Debug\net8.0\Client2.runtimeconfig.json
+C:\Users\viacheslavn\Desktop\TASKS )\Client2\Client2\bin\Debug\net8.0\Client2.dll
+C:\Users\viacheslavn\Desktop\TASKS )\Client2\Client2\bin\Debug\net8.0\Client2.pdb
+C:\Users\viacheslavn\Desktop\TASKS )\Client2\Client2\obj\Debug\net8.0\Client2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viacheslavn\Desktop\TASKS )\Client2\Client2\obj\Debug\net8.0\Client2.AssemblyInfoInputs.cache
+C:\Users\viacheslavn\Desktop\TASKS )\Client2\Client2\obj\Debug\net8.0\Client2.AssemblyInfo.cs
+C:\Users\viacheslavn\Desktop\TASKS )\Client2\Client2\obj\Debug\net8.0\Client2.csproj.CoreCompileInputs.cache
+C:\Users\viacheslavn\Desktop\TASKS )\Client2\Client2\obj\Debug\net8.0\Client2.dll
+C:\Users\viacheslavn\Desktop\TASKS )\Client2\Client2\obj\Debug\net8.0\refint\Client2.dll
+C:\Users\viacheslavn\Desktop\TASKS )\Client2\Client2\obj\Debug\net8.0\Client2.pdb
+C:\Users\viacheslavn\Desktop\TASKS )\Client2\Client2\obj\Debug\net8.0\Client2.genruntimeconfig.cache
+C:\Users\viacheslavn\Desktop\TASKS )\Client2\Client2\obj\Debug\net8.0\ref\Client2.dll

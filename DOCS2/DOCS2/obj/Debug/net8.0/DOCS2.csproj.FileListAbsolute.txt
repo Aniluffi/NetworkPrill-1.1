@@ -1,0 +1,14 @@
+C:\Users\viacheslavn\Desktop\TASKS )\DOCS2\DOCS2\bin\Debug\net8.0\DOCS2.exe
+C:\Users\viacheslavn\Desktop\TASKS )\DOCS2\DOCS2\bin\Debug\net8.0\DOCS2.deps.json
+C:\Users\viacheslavn\Desktop\TASKS )\DOCS2\DOCS2\bin\Debug\net8.0\DOCS2.runtimeconfig.json
+C:\Users\viacheslavn\Desktop\TASKS )\DOCS2\DOCS2\bin\Debug\net8.0\DOCS2.dll
+C:\Users\viacheslavn\Desktop\TASKS )\DOCS2\DOCS2\bin\Debug\net8.0\DOCS2.pdb
+C:\Users\viacheslavn\Desktop\TASKS )\DOCS2\DOCS2\obj\Debug\net8.0\DOCS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viacheslavn\Desktop\TASKS )\DOCS2\DOCS2\obj\Debug\net8.0\DOCS2.AssemblyInfoInputs.cache
+C:\Users\viacheslavn\Desktop\TASKS )\DOCS2\DOCS2\obj\Debug\net8.0\DOCS2.AssemblyInfo.cs
+C:\Users\viacheslavn\Desktop\TASKS )\DOCS2\DOCS2\obj\Debug\net8.0\DOCS2.csproj.CoreCompileInputs.cache
+C:\Users\viacheslavn\Desktop\TASKS )\DOCS2\DOCS2\obj\Debug\net8.0\DOCS2.dll
+C:\Users\viacheslavn\Desktop\TASKS )\DOCS2\DOCS2\obj\Debug\net8.0\refint\DOCS2.dll
+C:\Users\viacheslavn\Desktop\TASKS )\DOCS2\DOCS2\obj\Debug\net8.0\DOCS2.pdb
+C:\Users\viacheslavn\Desktop\TASKS )\DOCS2\DOCS2\obj\Debug\net8.0\DOCS2.genruntimeconfig.cache
+C:\Users\viacheslavn\Desktop\TASKS )\DOCS2\DOCS2\obj\Debug\net8.0\ref\DOCS2.dll
